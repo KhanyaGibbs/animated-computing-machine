@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Services | DNA Brand Architects</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      background-color: #fff;
+      color: #333;
+      line-height: 1.6;
+    }
+
+    header {
+      background-color: #000;
+      color: #fff;
+      padding: 20px 40px;
+    }
+
+    .navbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    .navbar h1 {
+      font-size: 1.8em;
+      margin: 0;
+    }
+
+    nav ul {
+      list-style: none;
+      display: flex;
+      gap: 25px;
+      margin: 0;
+      padding: 0;
+    }
+
+    nav ul li {
+      display: inline;
+    }
+
+    nav ul li a {
+      color: #fff;
+      text-decoration: none;
+      font-weight: 500;
+      transition: color 0.3s ease;
+    }
+
+    nav ul li a:hover {
+      color: #ffcc00;
+    }
+
+    .services-container {
+      max-width: 1000px;
+      margin: 50px auto;
+      padding: 0 20px;
+    }
+
+    .service {
+      margin-bottom: 50px;
+    }
+
+    .service h2 {
+      font-size: 1.6em;
+      margin-bottom: 10px;
+      color: #111;
+    }
+
+    .service p {
+      font-size: 1.05em;
+      text-align: justify;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #f1f1f1;
+      color: #666;
+      font-size: 0.9em;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="navbar">
+      <h1>DNA Services</h1>
+      <nav>
+        <ul>
+          <li><a href="homepage 2.html#">Home</a></li>
+          <li><a href="About Us.html#">About Us</a></li>
+          <li><a href="Services.html#">Services</a></li>
+          <li><a href="Contact us.html#">Contact Us</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <div class="services-container">
+    <div class="service">
+      <h2>Brand Strategy</h2>
+      <p>
+        At DNA Brand Architects, our brand strategy service goes beyond aesthetics to build the DNA of your brand. We believe that every brand must be rooted in an authentic story—one that resonates emotionally and intellectually with your target audience. We work closely with clients to unearth their core purpose, define their tone of voice, and shape a brand architecture that scales.
+      </p>
+      <p>
+        Through strategic workshops, competitive analysis, and cultural trend mapping, we ensure your brand is not only relevant but unforgettable. From naming to positioning, and from storytelling to brand identity systems, our goal is to create a brand that inspires loyalty and advocacy.
+      </p>
+    </div>
+
+    <div class="service">
+      <h2>Public Relations</h2>
+      <p>
+        Our Public Relations division fuses traditional and modern PR approaches to build powerful brand credibility. With deep-rooted relationships across media channels and influencers, DNA crafts communication strategies that make headlines and start conversations.
+      </p>
+      <p>
+        Whether it’s launching a new product, managing a crisis, or building long-term reputation equity, we offer strategic planning, media training, press outreach, and influencer engagement. We also provide media monitoring and sentiment analysis to ensure your brand is continuously adapting and leading the narrative in your industry.
+      </p>
+    </div>
+
+    <div class="service">
+      <h2>Experiential Marketing</h2>
+      <p>
+        In a world overloaded with digital noise, real-life experiences have never been more powerful. Our Experiential Marketing team specializes in designing events and brand activations that are immersive, meaningful, and share-worthy.
+      </p>
+      <p>
+        From pop-up installations and product tastings to large-scale festivals and launch parties, we make sure your brand touches people emotionally and physically. We carefully curate every aspect—venue selection, design, staff training, and post-event amplification—to ensure the experience aligns with your brand’s essence.
+      </p>
+    </div>
+
+    <div class="service">
+      <h2>Digital Campaigns</h2>
+      <p>
+        Digital presence is no longer optional—it's your frontline. DNA Brand Architects builds dynamic digital campaigns that cut through the clutter and deliver results. We blend creativity with analytics to design multi-platform campaigns that engage audiences and drive action.
+      </p>
+      <p>
+        Whether it’s through compelling video content, influencer marketing, search engine strategies, or social storytelling, our team creates digital ecosystems that work together seamlessly. We help brands stay ahead of digital trends and continuously optimize for performance.
+      </p>
+    </div>
+
+    <div class="service">
+      <h2>Marketing & Communications Consulting</h2>
+      <p>
+        At DNA Brand Architects, our Marketing and Communications Consulting service is designed to empower brands with data-driven insights and strategic clarity. We serve as long-term partners to organizations navigating complex marketing landscapes, offering a comprehensive suite of advisory services that range from integrated marketing planning to internal communications optimization.
+      </p>
+      <p>
+        Our consultants bring decades of industry experience, combining analytical rigor with creative foresight to align marketing strategies with core business objectives. Whether you’re building a new market presence, repositioning an established brand, or looking to improve your campaign ROI, our approach is holistic and collaborative.
+      </p>
+      <p>
+        We analyze current marketing efforts, identify performance gaps, and deliver tailored recommendations backed by audience research, channel strategy, and brand diagnostics. In the communications space, we guide companies through message architecture, stakeholder engagement, internal alignment, and change management communications. The result is a brand that speaks with
+        <footer>
+          &copy; 2025 DNA Brand Architects. All rights reserved.
+          <nav>
+            <a href="About Us.html">About Us</a>
+            <a href="Services.html">Services</a>
+            <a href="contact us.html">Contact Us</a>
+            <a href="home page 2.html">Home</a>
+          
+            </nav>
+        </footer>
